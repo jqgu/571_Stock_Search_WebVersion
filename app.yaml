@@ -1,0 +1,9 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: hw8.php
+  
+- url: /server.php
+  script: server.php
